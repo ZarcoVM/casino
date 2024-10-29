@@ -14,4 +14,15 @@ color_usuario.lower() not in colores:
 color_ganador = random.choice(colores)
 numero_ganador = random.choice(numeros)
 
-print(f"Ha tocado... ")
+print(f"Ha tocado... el {numero_ganador} {color_ganador}")
+
+if numero_ganador == numero_usuario and color ganador == color_usuario:
+  print("HAS GANADO")
+
+elif numero_ganador == numero_usuario:
+  print("Has acertado el numero")
+elif color_ganador == color_usuario:
+  print("Has acertado el color")
+else:
+  ("Has perdido")
+
