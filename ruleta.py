@@ -10,7 +10,7 @@ if numero_usuario not in numeros or
 color_usuario.lower() not in colores:
   print("ERROR, DATOS NO VALIDOS")
   quit()
-
+  
 color_ganador = random.choice(colores)
 numero_ganador = random.choice(numeros)
 
