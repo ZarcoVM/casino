@@ -11,7 +11,6 @@ color_usuario.lower() not in colores:
 color_ganador = random.choice(colores)
 numero_ganador = random.choice(numeros)
 
-
 print(f"Ha tocado... el {numero_ganador} {color_ganador}")
 
 if numero_ganador == numero_usuario and color ganador == color_usuario:
