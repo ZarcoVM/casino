@@ -23,3 +23,4 @@ elif color_ganador == color_usuario:
 else:
   ("Has perdido")
 
+
