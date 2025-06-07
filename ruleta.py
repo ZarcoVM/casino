@@ -2,7 +2,6 @@
 
 
 
-
 import random
 colores = ["rojo", "negro"]
 numeros = range(0, 37)
