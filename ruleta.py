@@ -6,6 +6,7 @@
 
 
 
+
 import random
 
 colores = ["rojo", "negro"]
